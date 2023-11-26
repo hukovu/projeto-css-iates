@@ -1,0 +1,173 @@
+#header{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+
+}
+
+
+#topo {
+    background-color: #21272B;
+    height: 100px;
+    align-items: right;
+    display: inline;
+
+}
+#topo h1 {
+    color: #1BB4E8;
+    display: flex;
+    width: 80px;
+    margin-left: 70px;
+    margin-top: -65px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+    
+}
+#topo h2{
+    color: white;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+    
+
+
+#topo img {
+    margin: 10px;
+    width: 50px;
+}
+
+
+#menu{
+    padding: 0px;
+    display: inline;
+    float: left;
+    color: #FFFFFF;
+    margin-left: 900px;
+    margin-top: -35px;
+    
+}
+#menu li{
+    display: inline;
+    padding-left: 5px;
+    color: #FFFFFF;
+   
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+#barco-principal{
+    display: flex;
+    height: 495px;
+    background-color: #F7EFEB;
+    width: 990px;
+    margin-bottom: 30px;
+    
+}
+
+
+#caixa-info{
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+    position: relative;
+    left: -450px;
+    top: 100px;
+    display: inline;
+    
+    
+}
+
+.texto{
+    display: flex;
+    color: white;
+    width: 370px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-right: -10px;
+    bottom: -10px;
+    
+}
+
+#caixa-info img{
+    top: 5px;
+    right: 10px;
+    margin-top: -90px;
+
+}
+
+#caixa-info span{
+    color: #C6B07F;
+}
+
+
+#conteudo{
+    display: flex;
+    width: 990px;
+    height: 495px;
+
+}
+
+#destino{
+    width: 350px;
+    height: 45px;
+    background-color: #1BB4E8;
+    position: absolute;
+    
+    
+}
+#destino h3{
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: -35px;
+    color: white;
+    
+}
+
+#destino h4{
+    font-size: 16px;
+    
+
+}
+
+#nossa-frota{
+    width: 350px;
+    height: 45px;
+    background-color: #C6B07F;
+    position: relative;
+    left: 550px;
+}
+
+#nossa-frota img{
+    display: inline;
+}
+
+
+#nossa-frota h3{
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 45px;
+    margin-top: -30px;
+    color: white;
+}
+
+
+
+
+body{
+    background-color: #EBEBEB;
+    
+}
